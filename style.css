@@ -28,3 +28,12 @@ section {
 .navbar a:hover {
   color: #ddd;
 }
+.card img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card {
+  overflow: hidden;
+  text-align: center;
+}
