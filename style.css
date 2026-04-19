@@ -9,3 +9,22 @@ h2 {
 h2 {
   margin-bottom: 20px;
 }
+.card {
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+section {
+  padding: 70px 20px;
+}
+.navbar a {
+  transition: 0.3s;
+}
+
+.navbar a:hover {
+  color: #ddd;
+}
